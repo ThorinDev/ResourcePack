@@ -1,3 +1,3 @@
 # ResourcePack
 My Resource Pack.
-##1.9
+It is for 1.9
